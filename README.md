@@ -9,6 +9,4 @@ Currently working at @SPLab on the ePol project.
 *Everything is lesson* :rocket:
 
 
-<img align='left' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=ruangoa&hide=issues&show_icons=true&theme=onedark' title='GitHub Stats' />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruangoa&layout=compact&theme=onedark)](https://github.com/ruangoa/github-readme-stats)
+<img align='center' alt='Github Stats' src='https://github-readme-stats.vercel.app/api?username=ruangoa&hide=issues&show_icons=true&theme=onedark' title='GitHub Stats' />
